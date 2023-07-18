@@ -1,4 +1,4 @@
-# Clube de resolcução de problemas complexos - CSPC
+# Clube de resolução de problemas complexos - CSPC
 
 Este repositório conterá os códigos de resolução dos problemas entregues pelo orientador Diego e resolvidos pelo aluno Rafael Queiroz Santos.
 
