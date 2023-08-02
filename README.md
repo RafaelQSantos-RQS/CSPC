@@ -4,3 +4,5 @@ Este repositório conterá os códigos de resolução dos problemas entregues pe
 
 1. Constantes de Kaprekar
 2. A lenda de Flavious Josephus
+3. Predição de Séries Temporais
+4. Fechamento de ciclo de pagamento
